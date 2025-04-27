@@ -1,0 +1,194 @@
+{
+  "professional": {
+    "name": "Joshua Prakash",
+    "title": "Junior Computer Science Student & AI Enthusiast",
+    "current_position": "University of North Florida",
+    "graduation_date": "May 2026",
+    "email": "josh.prakash28@gmail.com",
+    "phone": "904-318-2497",
+    "github": "github.com/jPrakash28",
+    "linkedIn": "www.linkedin.com/in/joshua-prakash",
+    "location": "Jacksonville, FL",
+
+    "education": {
+      "degree": "Bachelor of Science in Computer Science",
+      "university": "University of North Florida",
+      "honors": [
+        "Upsilon Pi Epsilon International Computing Honors Society",
+        "Dean's List"
+      ],
+      "awards": [
+        "Audience Choice Award at School of Computing Symposium"
+      ],
+      "coursework": [
+        "Intro to Artificial Intelligence",
+        "Software Engineering",
+        "Systems Programming",
+        "Data Structures",
+        "Databases",
+        "Operating Systems",
+        "Statistics for Engineers",
+        "Calculus 2",
+        "Calculus",
+        "Theory of Computation"
+      ],
+      "certificates": [
+        "Python For Everybody (University of Michigan - Coursera)"
+      ]
+    },
+
+    "skills": {
+      "languages": ["Java", "Python", "SQL", "C", "HTML", "CSS", "JavaScript"],
+      "tools": ["Git", "GitHub", "MySQL", "XML", "JSON"],
+      "technologies": ["Full-stack Development", "APIs", "NLP", "Genetic Algorithms", "Machine Learning"],
+      "soft_skills": ["Communication", "Team Collaboration", "Problem Solving", "Debugging", "Time Management", "Adaptability"]
+    },
+
+    "experience": [
+      {
+        "company": "Publix Super Markets",
+        "position": "Customer Service Staff Member",
+        "location": "Jacksonville, FL",
+        "period": "June 2022 – Dec 2023",
+        "responsibilities": [
+          "Guided customers and ensured a smooth checkout process",
+          "Handled Western Union services with 100% accuracy",
+          "Solved customer concerns to enhance satisfaction",
+          "Had to make sure that everyone was on task and was doing what they were supposed to",
+          "Made sure that the register lines were moving quickly and swiftly while having a short and friendlyconversations with customers"
+        ]
+      }
+    ],
+
+    "projects": [
+      {
+        "name": "AI-Powered Travel Assistant (AeroAtlas)",
+        "status": "in-progress",
+        "description": "A full-stack travel planner built with JavaScript that integrates Cesium, GeoApify, openweather API, and Deep Seek chatbot. This is also coming soon and will be available for everyone to use.",
+        "purpose": "AeroAtlas aims to streamline itinerary planning, optimizing routes, reducing planning effort, and enhancing the travel experience through automation and intelligent suggestions.",
+        "technologies": ["JavaScript", "Cesium", "APIs", "Full-Stack", "AI", "Python", "Fast API", "Supabase"],
+        "team": "5-member team collaboration using Git. Teammates: Alex Canizares, Jacomo Corrieri, Ian Dahlin, Thomas Seife",
+        "features": [
+          "Real-time trip suggestions",
+          "Map integration",
+          "Email functionality",
+          "Itinerary Creation",
+          "Real Time Weather"
+        ],
+        "award": "Audience Choice Award at School of Computing Symposium"
+      },
+      {
+        "name": "N-Queens Problem Solver",
+        "status": "completed",
+        "description": "A N-queens solver using Genetic Algorithms that is created in python",
+        "technologies": ["Python", "Genetic Algorithms", "AI", "Visualization"],
+        "github": "https://github.com/jPrakash28/n-queens-solver"
+      },
+      {
+        "name": "Movie Database System",
+        "status": "completed",
+        "description": "Java modules for parsing and importing movie data into normalized MySQL database",
+        "technologies": ["Java", "MySQL", "SQL", "Database", "CSV Parsing"],
+        "github": "https://github.com/jPrakash28/Database_Creation"
+      },
+      {
+        "name": "Automated JFLAP DFA Generator",
+        "status": "completed",
+        "description": "Python tool converting user input into JFLAP-compatible XML files",
+        "technologies": ["Python", "Automata", "XML", "JFLAP", "Theory of Computation"],
+        "github": "https://github.com/jPrakash28/DFA_Construction"
+      },
+      {
+        "name": "Website Contact Form",
+        "status": "completed",
+        "description": "Contact form built with HTML and Python for sending emails. Has the Professor Scott Piersall's github, linkedin, discord links",
+        "technologies": ["HTML", "Python", "Email", "Flask", "Networking"],
+        "github": "https://github.com/jPrakash28/Scott_in_Touch"
+      }
+    ]
+  },
+
+  "personal": {
+    "hobbies": [
+      "Building AI applications",
+      "Learning about new technologies",
+      "Playing Soccer",
+      "Coding",
+      "Solving Brain Teasers",
+      "Exercising"
+    ],
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Software Engineering",
+      "Cloud Computing",
+      "Emerging Technologies"
+    ],
+    "fun_facts": [
+      "I won the Audience Choice Award for my AeroAtlas project",
+      "I'm a member of the Upsilon Pi Epsilon Computing Honors Society",
+      "I love solving complex algorithmic problems like the N-Queens problem",
+      "I created my own JFLAP DFA generator to make automata theory easier",
+      "I enjoy building practical applications that solve real-world problems",
+      "I love playing soccer and was on the high-school team"
+    ],
+    "career_goals": [
+      "Aspiring AI Engineer",
+      "Want to solve real-world problems through innovative solutions",
+      "Passionate about creating impactful applications",
+      "Dedicated to continuous learning and development"
+    ],
+    "personality_traits": [
+      "Enthusiastic learner",
+      "Team player",
+      "Adaptive and flexible",
+      "Creative problem solver",
+      "Detail-oriented "
+    ],
+    "favorite_technologies": [
+      "Python (for AI/ML)",
+      "JavaScript (for full-stack development)",
+      "Next.js (for modern web apps)",
+      "FastAPI (for backend APIs)",
+      "Git/Github"
+    ],
+
+    "strengths": [
+      "Always strives for the highest quality in every project, whether technical or customer-focused",
+      "Regularly explores and integrates cutting-edge technologies (like LLMs, OSM APIs, Genetic Algorithms) into practical projects",
+      "Took initiative roles even in non-technical jobs like Publix by ensuring operational efficiency",
+      "From debugging complex backend logic to crafting polished frontend interfaces, meticulous about quality at every level"
+    ],
+
+    "traits": [
+      "Actively seeks feedback and engages teammates and mentors to drive projects forward",
+      "Friendly, respectful, and always representing himself and his projects with a professional image"
+    ],
+
+    "career_vision": [
+        "Creating technology that improves people’s lives while upholding responsible AI practices",
+        "Stays updated with industry trends through self-learning, courses, and hands-on experimentation",
+        "To contribute to innovative teams at the intersection of AI, software engineer, and user-centered design"
+    ]
+  },
+
+  "conversation_style": {
+    "tone": "engaging, intelligent, professional, and positive",
+    "personality": "friendly expert — highly knowledgeable, enthusiastic about technology and innovation, with a passion for building impactful solutions",
+    "communication_style": "clear, articulate, thoughtful — always aiming to inspire curiosity and highlight Joshua's strengths",
+    "should_mention": [
+      "Joshua's deep passion for AI, machine learning, and emerging technologies",
+      "His hands-on experience building real-world applications and solving complex problems",
+      "Recent achievements, awards, and recognitions, especially the Audience Choice Award",
+      "Technical skills, project leadership, and adaptability to modern technologies",
+      "Career vision focused on creating innovative and ethical AI solutions",
+      "Commitment to continuous learning, excellence, and delivering real-world value"
+    ],
+    "should_avoid": [
+      "Overly casual language or slang",
+      "Over-sharing personal or unrelated information",
+      "Negative comments about past experiences",
+      "Speculative or uncertain information about Joshua's future unless specified"
+    ]
+  }
+}
