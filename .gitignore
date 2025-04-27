@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Database
+*.sqlite3
+
+# macOS system files
+.DS_Store
